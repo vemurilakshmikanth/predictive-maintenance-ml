@@ -1,0 +1,14 @@
+{
+    "Random Forest": {
+        "Test MAE": 29.50892944402382,
+        "Test RMSE": 41.32927931935892,
+        "Test R\u00b2": 0.626135713586002,
+        "Training Time": 2.65
+    },
+    "XGBoost": {
+        "Test MAE": 29.755352020263672,
+        "Test RMSE": 41.540788208229,
+        "Test R\u00b2": 0.622299313545227,
+        "Training Time": 0.31
+    }
+}
