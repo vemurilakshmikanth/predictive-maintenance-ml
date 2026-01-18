@@ -106,10 +106,7 @@ jupyter notebook notebooks/01_data_exploration.ipynb
 
 ## 👤 Author
 
-**[Your Name]**
-- Portfolio: [Your Website]
-- LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub]
+Vemuri Lakshmikanth
 
 ## 📄 License
 
